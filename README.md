@@ -44,5 +44,17 @@ Eventually I want X.I.N.Y to be able to reproduce a build of itself, but this is
     - bzImage
     - dracut.img
     - rootfs.sfs
+  - chroot
+    - bin
+    - usr
+    - etc
+    - var
+    - sbin
+    - boot
+    - home
+    - root
+    - sys
+    - proc
+    - dev
 
 This is the eventual layout I would like to have implemented.
